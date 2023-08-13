@@ -14,4 +14,4 @@ A machine-learning predictor that detects customers who won’t make timely loan
 ### Functionality
 
 • Allows businesses to predict if customers will make timely payments
-• Makes accurate (73%) predictions for default on payment.
+• Has a 73% accuracy on predicting if a payment will be done on time
